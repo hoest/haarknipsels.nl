@@ -8,31 +8,31 @@
   </tr>
   <tr>
     <td>Kinderen 0 t/m 6 jr.</td>
-    <td class="price">&#8364; 9,00</td>
+    <td class="price">&#8364; 10,00</td>
   </tr>
   <tr>
     <td>Kinderen 7 t/m 12 jr.</td>
-    <td class="price">&#8364; 11,50</td>
+    <td class="price">&#8364; 12,50</td>
   </tr>
   <tr>
     <td>Dames knippen</td>
-    <td class="price">&#8364; 16,50</td>
+    <td class="price">&#8364; 17,50</td>
   </tr>
   <tr>
     <td>Dames knippen/drogen</td>
-    <td class="price">&#8364; 18,50</td>
+    <td class="price">&#8364; 19,50</td>
   </tr>
   <tr>
     <td>Dames knippen/modelfohnen</td>
-    <td class="price">&#8364; 22,00</td>
+    <td class="price">&#8364; 23,00</td>
   </tr>
   <tr>
     <td>Dames modelfohnen</td>
-    <td class="price">&#8364; 16,00</td>
+    <td class="price">&#8364; 17,00</td>
   </tr>
   <tr>
     <td>Heren knippen</td>
-    <td class="price">&#8364; 15,00</td>
+    <td class="price">&#8364; 16,00</td>
   </tr>
 </table>
 <table>
@@ -42,11 +42,11 @@
   </tr>
   <tr>
     <td>Verf vanaf</td>
-    <td class="price">&#8364; 22,00</td>
+    <td class="price">&#8364; 23,00</td>
   </tr>
   <tr>
     <td>Spoeling vanaf</td>
-    <td class="price">&#8364; 17,00</td>
+    <td class="price">&#8364; 18,00</td>
   </tr>
   <tr>
     <td>High/lowlights per folie</td>
@@ -60,15 +60,15 @@
   </tr>
   <tr>
     <td>Deelpermanent</td>
-    <td class="price">&#8364; 37,50</td>
+    <td class="price">&#8364; 38,50</td>
   </tr>
   <tr>
     <td>Permanent</td>
-    <td class="price">&#8364; 52,00</td>
+    <td class="price">&#8364; 53,00</td>
   </tr>
   <tr>
     <td>Ondersteuning</td>
-    <td class="price">&#8364; 37,50</td>
+    <td class="price">&#8364; 38,50</td>
   </tr>
 </table>
 <table>
@@ -82,10 +82,10 @@
   </tr>
   <tr>
     <td>Opsteken</td>
-    <td class="price">&#8364; 17,00</td>
+    <td class="price">&#8364; 18,00</td>
   </tr>
   <tr>
     <td>Opsteken met carmenset</td>
-    <td class="price">&#8364; 27,00</td>
+    <td class="price">&#8364; 28,00</td>
   </tr>
 </table>
